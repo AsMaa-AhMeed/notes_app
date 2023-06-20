@@ -6,3 +6,4 @@ export 'notes_listview.dart';
 export 'add_note_botttom_sheet.dart';
 export 'custom_text_feild.dart';
 export 'custom_botton.dart';
+export 'edit_note_view_body.dart';
